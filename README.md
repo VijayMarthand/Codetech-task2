@@ -31,3 +31,10 @@ Dynamically render recipes with images, ingredients, and instructions.
 Add filters and sorting options for better usability.
 
 output:
+![home](https://github.com/user-attachments/assets/d18f2443-e042-4fff-87d9-892d12083d06)
+![3rd](https://github.com/user-attachments/assets/a5fa73bc-ea63-4175-8bb9-321b9c568fe3)
+![2nd](https://github.com/user-attachments/assets/130ec4a7-cddf-4c64-ab15-83b6f56372e4)
+
+
+
+
